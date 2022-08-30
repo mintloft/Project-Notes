@@ -22,9 +22,6 @@ a opengl learn project
 3、final color ---> rt[screen, texture]
 
 
-1、不用框架，使用opengl api实现渲染到多个目标 -- 周三 1h
-2、使用框架，实现点光源的延迟渲染shader -- 下节课之前
-3、shadowmap -- 了解，下节课讲
-4、了解一下视锥剔除 -- 了解
 
-深入了解一下C++的基础 --- C++ primer
+
+
